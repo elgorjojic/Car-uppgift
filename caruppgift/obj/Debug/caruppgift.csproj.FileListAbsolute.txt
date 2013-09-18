@@ -1,1 +1,7 @@
 c:\users\elgor\documents\visual studio 2012\Projects\caruppgift\caruppgift\bin\Debug\caruppgift.exe.config
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\bin\Debug\caruppgift.exe.config
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\obj\Debug\caruppgift.csprojResolveAssemblyReference.cache
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\bin\Debug\caruppgift.exe
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\bin\Debug\caruppgift.pdb
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\obj\Debug\caruppgift.exe
+C:\Users\Robo\Documents\Car-uppgift\caruppgift\obj\Debug\caruppgift.pdb
